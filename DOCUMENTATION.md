@@ -371,7 +371,7 @@ For example:
 cordova run electron --nobuild --debug -- --inspect-brk=5858
 ```
 
-## Enable Developer Tool Exrtensions (Chrome Extensions)
+## Enable Developer Tool Extensions (Chrome Extensions)
 
 To enable a devtool extension, for a debug build, add the `devToolsExtension` collection to the Cordova Electron Settings file (`ElectronSettingsFilePath`).
 
